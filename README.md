@@ -8,10 +8,3 @@ We specialize in IT Infrastructure design, sales and service. We have dedicated 
 
 We have expertise of executing projects on turnkey bases, be it a small office or a large multinational company. By understanding new trends in IT and Industry requirements which keeps us a step ahead to present best products and services to our valued customers.
 
-## Features
-
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-
-## Installation
